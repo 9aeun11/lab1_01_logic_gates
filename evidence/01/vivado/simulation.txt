@@ -1,0 +1,2 @@
+LAB1_PASS logic_gate cases=4
+$finish called at time : 40 ns
